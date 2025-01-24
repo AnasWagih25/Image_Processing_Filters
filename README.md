@@ -29,18 +29,6 @@ matlab
 Copy
 Edit
 image_processing_gui
-Usage
-Once the GUI opens, you will see the following options:
-
--Import Image: Click to choose an image file from your computer.
--Apply Grayscale: Converts the loaded image to grayscale.
--Apply Gaussian Blur: Applies a Gaussian blur filter to the image.
--Apply Edge Detection: Detects edges in the image using the Canny method.
--Save Processed Image: Save the current processed image to your computer.
--Image Processing Workflow
--Import Image: Click the "Import Image" button to load an image from your system.
--Apply Filters: Use the buttons to apply filters like grayscale conversion, Gaussian blur, or edge detection.
--Save Processed Image: Once you've processed the image, you can save it by clicking the "Save Processed Image" button.
 
 
 
