@@ -12,7 +12,7 @@ This project provides a simple MATLAB-based Image Processing GUI that allows use
 
 ## Requirements
 
-- MATLAB (version R2020b or higher)
+- MATLAB (version R2014b or higher)
 - Image Processing Toolbox (for `imfilter`, `fspecial`, `edge`, etc.)
 
 ## Installation
@@ -45,10 +45,7 @@ Example Workflow
 Import an image.
 Apply grayscale, Gaussian blur, and edge detection in sequence.
 Save the final processed image.
-Screenshots
-Original Image Example
 
-Processed Image Example
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
