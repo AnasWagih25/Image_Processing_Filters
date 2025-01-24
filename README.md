@@ -32,10 +32,10 @@ image_processing_gui
 
 
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Author
+## Author
 Anas Wagih
 Acknowledgements
 MATLAB Image Processing Toolbox
