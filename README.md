@@ -37,6 +37,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 Anas Wagih
-Acknowledgements
+## Acknowledgements
 MATLAB Image Processing Toolbox
 Canny Edge Detection Algorithm
